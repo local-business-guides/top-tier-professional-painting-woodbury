@@ -12,9 +12,9 @@
 - Painter
 
 ## Guides
+- [How to Choose the Best Painters Woodbury Homeowners Need](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/best-painters-woodbury/): Find the best painters Woodbury homeowners can call for careful residential and commercial painting in Woodbury, MN.
 - [How to Choose Woodbury Painters for Your Home](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/woodbury-painters/): Woodbury painters for interior and exterior projects in Woodbury, with a free estimate from Top-Tier Professional Painting.
 - [What to Ask Painters in Woodbury Before Work Begins](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/painters-in-woodbury/): Painters in Woodbury for residential and commercial interiors and exteriors, with a free estimate for your local project.
-- [How to Choose the Best Painters Woodbury Homeowners Need](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/best-painters-woodbury/): Find the best painters Woodbury homeowners can call for careful residential and commercial painting in Woodbury, MN.
 - [A Homeowner's Guide to Local Painters Woodbury](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/local-painters-woodbury/): Talk with local painters Woodbury homeowners can reach to plan residential painting in Woodbury, MN.
 - [How to Choose the Best Painters in Woodbury](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/best-painters-in-woodbury/): Find the best painters in Woodbury for careful interior and exterior work on your home.
 - [Finding Painters Near Me in Woodbury](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/painters-near-me/): Find painters near me for interior and exterior painting in Woodbury, Minnesota.
@@ -23,6 +23,9 @@
 - [Affordable Painters Woodbury Homeowners Can Compare](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/affordable-painters-woodbury/): Affordable painters Woodbury residents can consult for a clear project scope and interior or exterior painting in Woodbury, Minnesota.
 - [Painter Woodbury Homeowners Can Talk With](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/painter-woodbury/): Find a Painter Woodbury homeowners can consult about project scope, preparation, and interior or exterior painting in Woodbury, Minnesota.
 
+## Newsroom
+- [Woodbury Painting Company Shares Guide to Best Painters Woodbury](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/news/2026-10-31-woodbury-painting-company-shares-guide-to-best/): Top-Tier Professional Painting has published a guide to local painters, with a video, podcast episode and audio version available online. (2026-10-31)
+
 ## Pages
 - [Woodbury Painters in Minnesota](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/): Get thoughtful interior and exterior painting for your home or business from a team based in Woodbury. Call +1612-429-7944.
 - [About Top-Tier Professional Painting](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/about/): About Top-Tier Professional Painting, Woodbury.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/top-tier-professional-painting-woodbury/news/rss.xml)
 - [Main resource site](https://top-tier-woodbury-painting.localwebsites.chatgpt.site)
